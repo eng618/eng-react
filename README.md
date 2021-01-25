@@ -2,7 +2,9 @@
 
 > A personal react component library
 
-[![NPM](https://img.shields.io/npm/v/eng-react.svg)](https://www.npmjs.com/package/eng-react) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+![CI](https://github.com/ENG618/eng-react/workflows/CI/badge.svg)
+[![NPM](https://img.shields.io/npm/v/eng-react.svg)](https://www.npmjs.com/package/eng-react)
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
@@ -13,15 +15,13 @@ npm install --save eng-react
 ## Usage
 
 ```tsx
-import * as React from 'react'
+import * as React from 'react';
 
-import MyComponent from 'eng-react'
+import MyComponent from 'eng-react';
 
 class Example extends React.Component {
-  render () {
-    return (
-      <MyComponent />
-    )
+  render() {
+    return <MyComponent />;
   }
 }
 ```
