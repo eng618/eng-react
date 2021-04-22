@@ -4194,8 +4194,7 @@ end-of-stream@^1.0.0, end-of-stream@^1.1.0:
     once "^1.4.0"
 
 "eng-react@link:..":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 enhanced-resolve@^4.3.0:
   version "4.5.0"
