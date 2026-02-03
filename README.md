@@ -1,5 +1,9 @@
 # eng-react
 
+> [!CAUTION]
+> **This repository is ARCHIVED.**
+> It is no longer being maintained or updated. The code is provided as-is for historical reference.
+
 > A personal react component library
 
 ![CI](https://github.com/ENG618/eng-react/workflows/CI/badge.svg)
